@@ -38,9 +38,9 @@ python audio_recorder_app.py
 ```
 ## Usage
 
--Launch the application.
--Enter the duration (in seconds) for recording.
--Enter the desired filename for the recorded audio file.
--Click the "Record" button to start recording.
--Click the "Record" button again to stop recording.
--View the list of recorded audio files in the listbox.
+- Launch the application.
+- Enter the duration (in seconds) for recording.
+- Enter the desired filename for the recorded audio file.
+- Click the "Record" button to start recording.
+- Click the "Record" button again to stop recording.
+- View the list of recorded audio files in the listbox.
