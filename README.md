@@ -28,7 +28,7 @@ git clone https://github.com/priyankav-27/audio-recorder-app.git
 ```bash
 cd audio-recorder-app
 ```
-3.Install the required depencies
+3.Install the required dependencies
 ```bash
 pip install -r requirements.txt
 ```
