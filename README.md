@@ -21,4 +21,26 @@ This is a simple Audio Recorder application built using Python's tkinter library
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/audio-recorder-app.git
+git clone https://github.com/priyankav-27/audio-recorder-app.git
+ ```
+2.Navigate to the project directory
+
+```bash
+cd audio-recorder-app
+```
+3.Install the required depencies
+```bash
+pip install -r requirements.txt
+```
+4.Run the application
+```bash
+python audio_recorder_app.py
+```
+## Usage
+
+Launch the application.
+Enter the duration (in seconds) for recording.
+Enter the desired filename for the recorded audio file.
+Click the "Record" button to start recording.
+Click the "Record" button again to stop recording.
+View the list of recorded audio files in the listbox.
